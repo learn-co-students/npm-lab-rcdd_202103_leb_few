@@ -1,0 +1,19 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "Color Clock NPM package JSON file",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "color",
+    "clock"
+  ],
+  "author": "learn",
+  "license": "ISC"
+}
