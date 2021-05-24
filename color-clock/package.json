@@ -1,0 +1,21 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "An introduction to npm and package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "clock"
+  ],
+  "author": "Salim",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
